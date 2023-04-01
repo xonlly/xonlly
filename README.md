@@ -4,7 +4,7 @@
 
 ## 🚀 Expériences 
 
-- **Gestion de plateforme :**  À 17 ans, j'ai développé une plateforme à 50 000 visiteurs par jour. 
+- **Un projet :**  À 17 ans, j'ai développé une plateforme à 50 000 visiteurs par jour. 
 - **Création de My-Serv :** À 19 ans, j'ai développé une plateforme permettant l’hébergement de serveur Minecraft.
 - **Free :** À 20 ans, j'ai travaillé en tant que développeur chez Free.
 - **Tracktl :** À 23 ans, j'ai travaillé en tant que développeur chez [Tracktl](https://www.tracktl.com/en/index.html). 
