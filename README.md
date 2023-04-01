@@ -15,13 +15,16 @@
   
 ## 💡 Projets actuels
 
-Actuellement, je me consacre à l'étude de l'intelligence artificielle pour concevoir des outils innovants et des instruments de pilotage de la recherche. Mon ambition est de créer une synergie entre le monde du code et celui de la recherche, pour un avenir plus harmonieux et productif.
+Actuellement, je me consacre à l'étude de l'intelligence artificielle pour concevoir des outils innovants et des instruments de pilotage de la recherche chez **Scriptor Artis**. Mon ambition est de créer une synergie entre le monde du code et celui de la recherche, pour un avenir plus harmonieux et productif.
+
 
 - [Clavus.io](https://clavus.io) - Sur une seule interface, gérez tous vos projets en temps réel.
 - [Clavus ENR](https://clavus.io/erp-enr) - l’ERP conçu pour la filière énergies renouvelables.
 - [Scriptor Artis](https://www.scriptor-artis.com) - Un moteur de performance pour l'enregistrement supérieur et la recherche
 - [Devana.ai](https://devana.ai) - Une AI Dédiée à la Recherche
 - [Tzar.fr](https://tzar.fr) - Un campus OpenSource pour les docteurs
+
+--- 
 
 [![Xonlly GitHub stats](https://github-readme-stats.vercel.app/api?username=xonlly)](https://github.com/anuraghazra/github-readme-stats)
 
