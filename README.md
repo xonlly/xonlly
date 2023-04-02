@@ -2,7 +2,7 @@
 
 👋 Salut ! Je suis Marvin, un développeur passionné par l'intelligence artificielle et toujours prêt à relever de nouveaux défis. Mon objectif est de transformer le code en un véritable accélérateur d'intelligences et de contribuer au progrès de la recherche et de l'apprentissage.
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=xonlly&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=xonlly&area=true&hide_border=true)
 
 ## 🚀 Expériences 
 
@@ -32,7 +32,7 @@ Actuellement, je me consacre à l'étude de l'intelligence artificielle pour con
 
 Voici quelques-unes des langages et technologies que je maîtrise :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,tensorflow,nodejs,materialui,postgres,mysql,linux,kubernetes,grafana,gatsby,nextjs,nginx,go,figma,firebase,docker,blender,arduino,php,py,pytorch,rabbitmq,redis,vim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,tensorflow,nodejs,materialui,postgres,mysql,linux,kubernetes,grafana,gatsby,nextjs,nginx,go,figma,firebase,docker,blender,arduino,php,py,pytorch,rabbitmq,redis,vim,vscode&theme=light)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xonlly&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
