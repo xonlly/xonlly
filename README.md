@@ -2,7 +2,7 @@
 
 👋 Salut ! Je suis Marvin, un développeur passionné par l'intelligence artificielle et toujours prêt à relever de nouveaux défis. Mon objectif est de transformer le code en un véritable accélérateur d'intelligences et de contribuer au progrès de la recherche et de l'apprentissage.
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=xonlly&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=xonlly&area=true&hide_border=true&theme=github-compact)
 
 ## 🚀 Expériences 
 
