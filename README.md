@@ -31,14 +31,8 @@ Actuellement, je me consacre à l'étude de l'intelligence artificielle pour con
 ## 🌐 Langages et technologies
 
 Voici quelques-unes des langages et technologies que je maîtrise :
-- Python
-- JavaScript
-- HTML/CSS
-- React
-- Node.js
-- TensorFlow
-- PyTorch
-- Et beaucoup d'autres...
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,tensorflow,nodejs,materialui,postgres,mysql,linux,kubernetes,grafana,gatsby,nextjs,nginx,go,figma,firebase,docker,blender,arduino,php,py,pytorch,rabbitmq,redis,vim,vscode)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xonlly&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
